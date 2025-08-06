@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Wireless Earbuds",
+    "price": "899",
+    "link": "https://example.com/deal"
+  },
+  {
+    "title": "Smartwatch with Heart Rate Monitor",
+    "price": "1299",
+    "link": "https://example.com/deal2"
+  }
+]
+[
+  {
+    "title": "Amazon Echo Dot 5th Gen",
+    "price": "3499",
+    "link": "https://www.amazon.in/affiliate-product-1"
+  },
+  {
+    "title": "USB-C Fast Charger",
+    "price": "499",
+    "link": "https://www.amazon.in/affiliate-product-2"
+  }
+]

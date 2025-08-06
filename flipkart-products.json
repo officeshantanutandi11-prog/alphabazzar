@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Wireless Earbuds",
+    "price": "899",
+    "link": "https://example.com/deal"
+  },
+  {
+    "title": "Smartwatch with Heart Rate Monitor",
+    "price": "1299",
+    "link": "https://example.com/deal2"
+  }
+]
+[
+  {
+    "title": "Flipkart Smart LED TV",
+    "price": "10999",
+    "link": "https://www.flipkart.com/affiliate-product-1"
+  },
+  {
+    "title": "Bluetooth Speaker",
+    "price": "799",
+    "link": "https://www.flipkart.com/affiliate-product-2"
+  }
+]
