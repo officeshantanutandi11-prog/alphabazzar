@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Indian Bazar</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🛒 Indian Bazar</h1>
+    <div class="logo-row">
+      <a href="https://amzn.to/your-affiliate-link" target="_blank"><img src="assets/logos/amazon.png" alt="Amazon" /></a>
+      <a href="https://www.flipkart.com/your-affiliate-link" target="_blank"><img src="assets/logos/flipkart.png" alt="Flipkart" /></a>
+      <a href="https://meesho.com/your-affiliate-link" target="_blank"><img src="assets/logos/meesho.png" alt="Meesho" /></a>
+      <a href="https://www.myntra.com/your-affiliate-link" target="_blank"><img src="assets/logos/myntra.png" alt="Myntra" /></a>
+    </div>
+  </header>
+
+  <main>
+    <section id="product-section">
+      <h2>Latest Deals</h2>
+      <div id="product-list"></div>
+    </section>
+
+    <section id="seller-form">
+      <h2>📦 List Your Product</h2>
+      <form id="uploadForm">
+        <input type="text" placeholder="Your Name" required />
+        <input type="text" placeholder="Product Name" required />
+        <input type="url" placeholder="Product Link" required />
+        <input type="number" placeholder="Price (₹)" required />
+        <button type="submit">Submit</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Indian Bazar. Affiliate-based offers platform.</p>
+  </footer>
+<div id="product-list" class="grid"></div>
+
+<script src="sheet-products.js"></script>
+
+  <script src="script.js"></script>
+</body>
+</html>
